@@ -143,6 +143,20 @@ img {
     .container .row .col {
         width: 100%;
     }
+
+    .why-us {
+        background-color: #000000;
+        margin-bottom: 0px;
+        padding-top: 40px;
+    }
+
+    .steps {
+        margin: 0px;
+    }
+
+    .col h3 {
+        margin-top: 50px;
+    }
 }
 
 
